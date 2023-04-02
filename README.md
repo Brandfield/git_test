@@ -1,4 +1,4 @@
 # git_test
 
-My first gitHub repo!
+Brandon's testing Repo!
 Hello Odin!
